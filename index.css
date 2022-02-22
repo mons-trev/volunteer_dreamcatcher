@@ -1,0 +1,42 @@
+html {
+    background-color: #36384f;
+    font-family: fantasy;
+    font-style: initial;
+    font-weight: normal;
+    color: #efefef;
+}
+@import url("https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap");
+
+input {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 100px;
+    
+    position: relative;
+    border: none;
+    display: inline-block;
+    padding: 15px 30px;
+    border-radius: 15px;
+    font-family: "paybooc-Light", sans-serif;
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2);
+    text-decoration: none;
+    font-weight: 600;
+    transition: 0.25s;
+    background-color: aliceblue;
+    color: #1e6b7b;
+}
+input:hover {
+    letter-spacing: 2px;
+    transform: scale(1.2);
+    cursor: pointer;
+}
+.columns figure{
+    display: inline-block;
+    border:2px solid rgba(226, 222, 222, 0.456);
+    margin:0;
+    margin-bottom: 15px;
+    padding:10px;
+    box-shadow: 2.7px 2.7px 4.3px rgba(212, 201, 201, 0.701);;
+  }

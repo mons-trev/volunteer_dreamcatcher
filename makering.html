@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>링 만들기(1단계)</title>
+    <link rel="stylesheet" type="text/css" href = "index.css">
+    <style>
+      .columns{
+          column-width: 800px;
+          column-gap: 15px;
+      }
+      
+      .columns figure video{
+        border-top:1px solid rgba(0,0,0,0.2);
+        padding:10px;
+        margin-top:11px;
+      }
+      video { max-width: 90%; display: block; margin: 8px auto; }
+    </style>
+  </head>
+  <body>
+    <h1 style="text-align:center;">링 만들기(1단계)</h1>
+
+
+    <div class="columns" style="text-align: center;">
+
+
+    <figure id="videos">
+        <video controls>
+        <source src="ring/링1.mp4" type="video/mp4">
+        <strong>Your browser does not support the video tag.</strong>
+        </video>
+    </figure>
+
+    <figure id="videos">
+        <video controls>
+        <source src="star/매듭묶기1.mp4" type="video/mp4">
+        <strong>Your browser does not support the video tag.</strong>
+        </video>
+    </figure>
+    <div>
+    <input type="button" value="다음 단계로 넘어가기" onclick="location.href='tie.html'">
+    <input type="button" value="홈 화면으로 가기" onclick="location.href='index.html'">
+    </div>
+      
+  </body>
+</html>
