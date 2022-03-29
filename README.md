@@ -1,7 +1,7 @@
 # volunteer_dreamcatcher
 
 ## 🎇이화 봉사단 과역지역 아동센터 봉사활동 
-### 🤸‍♂️tmi: 원래는 드림캐쳐 튜토리얼 ppt를 만들어서 수업했으나 용량문제로 다 못 만든 학생들에게 ppt를 보내지 못해 만든 튜토리얼 정적 웹 사이트
+### 🤸‍♂️tmi,,: 원래는 드림캐쳐 튜토리얼 ppt를 만들어서 수업했으나 용량문제로 다 못 만든 학생들에게 ppt를 보내지 못해 만든 튜토리얼 정적 웹 사이트
 ### ✔Tech Stack: Html, Css, Github Webhosting
 <p align="center">
 <img src="https://user-images.githubusercontent.com/80975932/155129448-48acfb81-ed83-454b-b5b0-2d93c1d99ff5.png" width="50%">
